@@ -1,0 +1,28 @@
+---
+- students: 
+
+  - name: ravi
+    phno: 89898989
+    email: ravi@gmail.com
+    adress: 
+       streetno: 00111
+       doorno: 34534534
+       pincode: 55555555
+
+
+  - name: akhil
+    phno: 78787787
+    email: akhil@gmail.com
+    adress: 
+       streetno: 00111
+       doorno: 34534534
+       pincode: 55555555
+
+
+  - name: ukey
+    phno: 34873264872
+    email: ukey@gmail.com
+    adress: 
+       streetno: 00111
+       doorno: 34534534
+       pincode: 55555555
