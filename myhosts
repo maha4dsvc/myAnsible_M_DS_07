@@ -20,7 +20,7 @@
 
 [mywebservers:vars]
 key=value
-myubunutwebpack=apache2222222222222222222222222
+myubunutwebpack=apache2
 myredhatwebpack=httpd
 
 
