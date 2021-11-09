@@ -18,10 +18,7 @@
 172.31.44.134
 
 
-[mywebservers:vars]
-key=value
-myubunutwebpack=apache2
-myredhatwebpack=httpd
+
 
 
 
