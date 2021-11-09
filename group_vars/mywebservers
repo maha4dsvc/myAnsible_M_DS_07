@@ -1,3 +1,5 @@
 ---
 myubunutwebpack: apache2
 myredhatwebpack: httpd
+myjavapackonuubntu: openjdk-8-jre
+myjavapackonredhat: java-1.8.0-openjdk
