@@ -1,0 +1,11 @@
+---
+
+- name: i want  to create folder
+  file:
+    path: /home/ubuntu/myfolder
+    state: directory
+    
+- name: i want to create file one
+  file:
+    path: /home/ubuntu/myfolder/fileone
+    state: present

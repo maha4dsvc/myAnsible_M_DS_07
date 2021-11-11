@@ -6,3 +6,4 @@
     file:
       path: /home/ubuntu/mahatestfile
       state: touch
+  - include_tasks: myfile.yml
