@@ -7,3 +7,9 @@
       path: /home/ubuntu/mahatestfile
       state: touch
   - include_tasks: myfile.yml
+  
+  - name: i want to install webservers
+    apt:
+      name: apache2
+      state: present
+    
