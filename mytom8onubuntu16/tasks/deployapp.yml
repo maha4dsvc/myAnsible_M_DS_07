@@ -1,6 +1,6 @@
 ---
 - name: i want deploy java application 
   get_url:
-    url: https://myk8s0011.s3.us-west-2.amazonaws.com/mahaLogin.war
-    dest: /opt/tomcat/mahaLogin.war
+    url: https://get.jenkins.io/war-stable/2.303.3/jenkins.war
+    dest: /opt/tomcat/jenkins.war
     force_basic_auth: yes
